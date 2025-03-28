@@ -3,7 +3,7 @@ const encrypt = (payload) => {
 }
 
 const decrypt = (token) => {
-  // return decoded payload
+  // return decoded pay
 }
 
 module.exports = {
